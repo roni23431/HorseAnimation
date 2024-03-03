@@ -1,0 +1,26 @@
+{
+"name": "horseanimationroni",
+"version": "1.0.0",
+"description": "This is a simple JavaScript code snippet to generate an animated running horse on a canvas element in a web browser.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/roni23431/HorseAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "roni23431",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
